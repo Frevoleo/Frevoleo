@@ -20,7 +20,6 @@ Sou um(a) desenvolvedor(a) com conhecimentos em DevOps, PHP e JavaScript, e atua
 - 🤖 Dedico-me agora a aprimorar minhas habilidades em ferramentas de DevOps, como Git, Docker e Kubernetes, visando automação de processos e implementação de boas práticas de infraestrutura.
 - 🎓 Estou comprometido em obter a certificação ITILv4 Foundation para aprimorar minhas habilidades em gestão de serviços de TI e gerenciamento de processos. Busco oportunidades que me permitam aplicar minhas habilidades em projetos desafiadores e contribuir para o sucesso e a segurança dos projetos.
 
-## Contatos:
 <div>
   <p align="center">
 <a href="https://instagram.com/frevoleo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
