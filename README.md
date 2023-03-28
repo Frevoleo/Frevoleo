@@ -8,6 +8,14 @@
 </p>
 
 # 👋 Olá, eu sou Flávio Leonel Marynowski!
+<div>
+  <p align="center">
+<a href="https://instagram.com/frevoleo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=5521971320278" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href = "mailto:flavioleoempresarial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/flavioleo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+  </p>
 
 Sou um(a) desenvolvedor(a) com conhecimentos em DevOps, PHP e JavaScript, e atualmente estou estudando Python. Aqui está um pouco sobre mim:
 
@@ -19,15 +27,6 @@ Sou um(a) desenvolvedor(a) com conhecimentos em DevOps, PHP e JavaScript, e atua
 - 🏢 Com experiência em desenvolvimento PHP e banco de dados PGSQL na Escola de Aperfeiçoamento de Oficiais, adquiri habilidades valiosas em resolução de problemas e trabalho em equipe.
 - 🤖 Dedico-me agora a aprimorar minhas habilidades em ferramentas de DevOps, como Git, Docker e Kubernetes, visando automação de processos e implementação de boas práticas de infraestrutura.
 - 🎓 Estou comprometido em obter a certificação ITILv4 Foundation para aprimorar minhas habilidades em gestão de serviços de TI e gerenciamento de processos. Busco oportunidades que me permitam aplicar minhas habilidades em projetos desafiadores e contribuir para o sucesso e a segurança dos projetos.
-
-<div>
-  <p align="center">
-<a href="https://instagram.com/frevoleo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://api.whatsapp.com/send?phone=5521971320278" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href = "mailto:flavioleoempresarial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/flavioleo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-  </p>
   
  <div>
 <a href="https://github.com/Frevoleo">
