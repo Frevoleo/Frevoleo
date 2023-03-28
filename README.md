@@ -21,12 +21,12 @@ Sou um(a) desenvolvedor(a) com conhecimentos em DevOps, PHP e JavaScript, e atua
 - 🎓 Estou comprometido em obter a certificação ITILv4 Foundation para aprimorar minhas habilidades em gestão de serviços de TI e gerenciamento de processos. Busco oportunidades que me permitam aplicar minhas habilidades em projetos desafiadores e contribuir para o sucesso e a segurança dos projetos.
 
 ## Contatos:
-<p align="center">
 <div>
+  <p align="center">
 <a href="https://instagram.com/frevoleo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5521971320278" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href = "mailto:flavioleoempresarial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/flavioleo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-</p>
+  </p>
 <!-- Fim do README.md -->
